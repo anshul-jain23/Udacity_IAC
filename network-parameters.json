@@ -1,0 +1,34 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdagramProject"
+    },
+    {
+        "ParameterKey": "VPCCidr",
+        "ParameterValue": "10.1.0.0/16"
+    },
+    {
+        "ParameterKey": "PublicCidr1",
+        "ParameterValue": "10.1.1.0/24"
+    },
+    {
+        "ParameterKey": "PublicCidr2",
+        "ParameterValue": "10.1.2.0/24"
+    },
+    {
+        "ParameterKey": "PrivateCidr1",
+        "ParameterValue": "10.1.3.0/24"
+    },
+    {
+        "ParameterKey": "PrivateCidr2",
+        "ParameterValue": "10.1.4.0/24"
+    },
+    {
+        "ParameterKey": "Region1",
+        "ParameterValue": "us-east-1"
+    },
+    {
+        "ParameterKey": "Region2",
+        "ParameterValue": "us-east-1"
+    }
+]
